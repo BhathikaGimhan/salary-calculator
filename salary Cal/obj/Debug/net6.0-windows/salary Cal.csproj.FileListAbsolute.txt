@@ -1,0 +1,19 @@
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.csproj.AssemblyReference.cache
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary_Cal.Frm_Cal.resources
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary_Cal.Form1.resources
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.csproj.GenerateResource.cache
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.AssemblyInfoInputs.cache
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.AssemblyInfo.cs
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.csproj.CoreCompileInputs.cache
+F:\C# Projects\salary Cal\salary Cal\bin\Debug\net6.0-windows\salary Cal.exe
+F:\C# Projects\salary Cal\salary Cal\bin\Debug\net6.0-windows\salary Cal.deps.json
+F:\C# Projects\salary Cal\salary Cal\bin\Debug\net6.0-windows\salary Cal.runtimeconfig.json
+F:\C# Projects\salary Cal\salary Cal\bin\Debug\net6.0-windows\salary Cal.dll
+F:\C# Projects\salary Cal\salary Cal\bin\Debug\net6.0-windows\salary Cal.pdb
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.dll
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\refint\salary Cal.dll
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.pdb
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary Cal.genruntimeconfig.cache
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\ref\salary Cal.dll
+F:\C# Projects\salary Cal\salary Cal\obj\Debug\net6.0-windows\salary_Cal.Results.resources
